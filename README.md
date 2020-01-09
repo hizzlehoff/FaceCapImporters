@@ -1,5 +1,5 @@
 # FaceCapImporters
-This repository contains import scripts for FaceCap's .txt format.
+This repository contains import scripts for FaceCap's open .txt format.
 
 The file format only contains animation data.
 
